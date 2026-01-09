@@ -1,7 +1,7 @@
 # Distributed-NLP-Cloud-Analyzer
  
 **Created by:** Niv Yaakobov 322578998
-
+  
 ---
 
 ## 1. Project Overview
